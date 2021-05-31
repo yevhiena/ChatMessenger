@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><messages>
+    <message from="firstUser@mail.ua" id="1" moment="20:33:50 30-05-2020" to="secondUser@mail.ua">Hello</message>
+    <message from="secondUser@mail.ua" id="2" moment="10:24:53 31-05-2020" to="firstUser@mail.ua">Hello</message>
+</messages>
+
